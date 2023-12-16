@@ -2,7 +2,7 @@ export default function Parent()
 {
     return(
         <div>
-            <h1>Pareent component</h1>
+            <h1>Parent component</h1>
             <Child res={1000}/>
         </div>
     )
